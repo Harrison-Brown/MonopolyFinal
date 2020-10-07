@@ -1,0 +1,81 @@
+ Tile                   Probability   Revenue
+ 0 Go                     0.03206       $0.0000
+ 1 Mediterranean Ave      0.02288       $0.04577
+ 2 Community Chest        0.02021       $0.0000
+ 3 Baltic Ave             0.02279       $0.09115
+ 4 Income Tax             0.02332       $0.0000
+ 5 Reading Railroad       0.03004       $0.7510
+ 6 Oriental Ave           0.02435       $0.1461
+ 7 Chance                 0.02478       $0.0000
+ 8 Vermont Ave            0.01094       $0.06563
+ 9 Connecticut Ave        0.02492       $0.1994
+10 Pass Jail              0.02451       $0.0000
+11 St. Charles Place      0.03785       $0.3785
+12 Electric Company       0.02708       $0.7581
+13 States Ave             0.02384       $0.2384
+14 Virvinia Ave           0.02396       $0.2875
+15 Pennsylvania Railroad  0.02558       $0.6396
+16 St. James Place        0.02472       $0.3460
+17 Community Chest        0.02237       $0.0000
+18 Tennessee Ave          0.02596       $0.3634
+19 New York Ave           0.02596       $0.4154
+20 Free Parking           0.02586       $0.0000
+21 Kentucky Ave           0.02590       $0.4662
+22 Chance                 0.01126       $0.0000
+23 Indiana Ave            0.02532       $0.4557
+24 Illinois Ave           0.02931       $0.5863
+25 B & O Railroad         0.02609       $0.6522
+26 Atlantic Ave           0.02444       $0.5377
+27 Ventnor Ave            0.02427       $0.5339
+28 Water Works            0.02560       $0.7167
+29 Marvin Gardens         0.02368       $0.5683
+30 Go To Jail             0.02412       $0.0000
+31 Pacific Ave            0.02445       $0.6358
+32 North Carolina Ave     0.02454       $0.6380
+33 Community Chest        0.02174       $0.0000
+34 Pennsylvania Ave       0.02482       $0.6950
+35 Short Line             0.02496       $0.6239
+36 Chance                 0.01092       $0.0000
+37 Park Place             0.02454       $0.8590
+38 Luxury Tax             0.02404       $0.0000
+39 Boardwalk              0.02823       $1.411
+40 Jail                   0.008958      $0.0000
+41 Jail1                  0.007465      $0.0000
+42 Jail2                  0.006221      $0.0000
+43 Jail3                  0.005184      $0.0000
+
+Top 10 tiles - Probability
+Tile 11, 3.78%
+Tile  0, 3.20%
+Tile  5, 3.00%
+Tile 24, 2.93%
+Tile 39, 2.82%
+Tile 12, 2.70%
+Tile 25, 2.60%
+Tile 19, 2.59%
+Tile 18, 2.59%
+Tile 21, 2.59%
+
+Top 10 expected values - single property
+Tile 39, $1.41
+Tile 37, $0.85
+Tile 12, $0.75
+Tile  5, $0.75
+Tile 26, $0.71
+Tile 31, $0.69
+Tile 23, $0.65
+Tile 13, $0.63
+Tile 27, $0.63
+Tile 26, $0.63
+
+Expected revenue from each set of properties
+Pink, $1.81
+Brown, $0.27
+Util, $3.69
+Green, $3.84
+Yellow, $3.37
+Blue, $2.81
+Orange, $2.25
+Cyan, $0.82
+RR, $21.33
+Red, $3.02
